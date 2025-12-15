@@ -105,4 +105,11 @@ My goal was to create a polished, cohesive gameplay experience that integrates e
 The playable demo can be downloaded from the **Releases** section of this repository.
 
 > Note: Source code can be shared privately upon request.
+## Note on Source Code
+
+GitHub automatically generates "Source code (zip/tar.gz)" files for every release.
+These archives only contain this repository's public files (e.g. README) and do not
+include the actual game source code.
+
+The full project source code is kept private to comply with academic integrity policies.
 
